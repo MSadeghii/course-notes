@@ -14,10 +14,12 @@
     ```
 
 1. Console.clear()
+#Understanding the Differences between the freeCodeCamp and Browser Console
+let output = "Get this to show once in the freeCodeCamp console and not at all in the browser console";
+console.clear();
+console.log(output);
+console.clear();
 
-    ```javascript
-    console.clear();
-    ```
 
 1. Use typeof to Check the Type of a Variable
 
